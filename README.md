@@ -5,8 +5,7 @@ T'was a beautiful tuesday morning. I had received my invitation to the becode ca
 a short story by **Kevin**
 ### tralalalala
 
-okay trying this again
-
-This be cray cray
-
-bla bla bla bla bla
+Adding new lines of code towards the README file
+One
+Two
+Three
